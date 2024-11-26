@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(7, 83, 83);
+}
+h1{
+    background-color: rgb(66, 38, 19);text-align: center;color: white;
+}
+div{
+    background-color: aqua;
+    width: 400px;
+}
+.box{
+    margin: 100px 500px;
+}
